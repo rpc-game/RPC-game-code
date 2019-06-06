@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+$basetexture models\rpcs\077\grandmother_d
+$surfaceprop flesh
+$bumpmap models\rpcs\077\grandmother_n
+$alphatest 1
+
+$alphatestreference .5
+$allowalphatocoverage 1
+}
